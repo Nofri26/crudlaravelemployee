@@ -4,5 +4,6 @@
     "Comment": true,
     "Category": true,
     "Karyawan": true,
-    "Employee": true
+    "Employee": true,
+    "Mahasiswa": true
 }
